@@ -1,0 +1,12 @@
+a- La commande git fetch récupère uniquement les données requises du référentiel distant vers votre référentiel local,
+ tandis que la commande git pull remplit la même fonction que git fetch et récupère les mêmes données dans l'espace
+ de travail dans lequel vous travaillez.
+
+b- Pour annuler les modifications locales non validées dans git ilfaut , on peut utiliser la commande git checkout ou bien
+suffit de réinitialiser l'état du fichier de l'espace de travail .
+
+c- Pour supprimer une branche distante dans git , on peut utiliser la commande git push avec l'option --delete
+git push 
+
+d- Pour voir l'historique des modifications pour un fichier spécifique dans git 
+il faut utiliser  la commande git log.
